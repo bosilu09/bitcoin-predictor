@@ -1,0 +1,5 @@
+{
+  "name": "CryptoPredict Minute",
+  "description": "A web application that displays the live Bitcoin value, uses AI to generate relevant crypto news insights, and predicts the market value for the next minute.",
+  "requestFramePermissions": []
+}

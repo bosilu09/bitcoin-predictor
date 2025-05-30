@@ -1,0 +1,23 @@
+
+{
+  "name": "crypto-predictor-cli",
+  "version": "1.0.0",
+  "description": "CLI tool to predict Bitcoin price using CoinGecko and Gemini API.",
+  "main": "crypto_predictor_cli.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node crypto_predictor_cli.mjs"
+  },
+  "keywords": [
+    "bitcoin",
+    "crypto",
+    "prediction",
+    "gemini",
+    "cli"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.2.0"
+  }
+}
